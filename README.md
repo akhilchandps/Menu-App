@@ -1,11 +1,10 @@
-# 🍽️ Deepnetsoft Menu Manager
+Deepnetsoft Menu Manager
 
 A full-stack restaurant menu management application built as part of the Deepnetsoft Machine Test.
 
 ## 🔗 Live Demo
 
-- **Frontend:** https://your-app.netlify.app
-- **Backend:** https://menu-app-backend-2-iu57.onrender.com
+- **Live-App:** https://menu-app-solutions.netlify.app/
 
 ---
 
